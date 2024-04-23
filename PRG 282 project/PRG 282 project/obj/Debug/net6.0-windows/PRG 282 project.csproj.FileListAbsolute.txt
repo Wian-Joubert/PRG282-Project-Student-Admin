@@ -1,0 +1,124 @@
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.exe
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.deps.json
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.runtimeconfig.json
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.dll
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.pdb
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.DisplayForm.resources
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.LoginForm.resources
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.ModuleForm.resources
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.Regform.resources
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.StudentInfForm.resources
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.GenerateResource.cache
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.AssemblyInfoInputs.cache
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.AssemblyInfo.cs
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.CoreCompileInputs.cache
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.dll
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\refint\PRG 282 project.dll
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.pdb
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.genruntimeconfig.cache
+D:\Uni\PRG 282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\ref\PRG 282 project.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.DisplayForm.resources
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.LoginForm.resources
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.ModuleForm.resources
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.Regform.resources
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.StudentInfForm.resources
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.GenerateResource.cache
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.AssemblyInfoInputs.cache
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.AssemblyInfo.cs
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.CoreCompileInputs.cache
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\refint\PRG 282 project.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.pdb
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.exe
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.deps.json
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.runtimeconfig.json
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.pdb
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.genruntimeconfig.cache
+C:\Users\olwia\OneDrive\Desktop\PGR282\Project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\ref\PRG 282 project.dll
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.exe
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.deps.json
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.runtimeconfig.json
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.dll
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.pdb
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.AssemblyReference.cache
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.DisplayForm.resources
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.LoginForm.resources
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.ModuleForm.resources
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.Regform.resources
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.StudentInfForm.resources
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.GenerateResource.cache
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.AssemblyInfoInputs.cache
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.AssemblyInfo.cs
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.CoreCompileInputs.cache
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.CopyComplete
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.dll
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\refint\PRG 282 project.dll
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.pdb
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.genruntimeconfig.cache
+D:\Uni\PRG 282\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\ref\PRG 282 project.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.exe
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.deps.json
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.runtimeconfig.json
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.pdb
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.AssemblyReference.cache
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.DisplayForm.resources
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.LoginForm.resources
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.ModuleForm.resources
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.Regform.resources
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.StudentInfForm.resources
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.GenerateResource.cache
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.AssemblyInfoInputs.cache
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.AssemblyInfo.cs
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.CoreCompileInputs.cache
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.CopyComplete
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\refint\PRG 282 project.dll
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.pdb
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.genruntimeconfig.cache
+C:\Users\olwia\OneDrive\Desktop\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\ref\PRG 282 project.dll
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.exe
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.deps.json
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.runtimeconfig.json
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.dll
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\PRG 282 project.pdb
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.AssemblyReference.cache
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.DisplayForm.resources
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.LoginForm.resources
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.ModuleForm.resources
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.Regform.resources
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG_282_project.Presentation_Layer.StudentInfForm.resources
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.GenerateResource.cache
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.AssemblyInfoInputs.cache
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.AssemblyInfo.cs
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.CoreCompileInputs.cache
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.csproj.CopyComplete
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.dll
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\refint\PRG 282 project.dll
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.pdb
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\PRG 282 project.genruntimeconfig.cache
+C:\School\PGR282\PRG 282 project\PRG 282 project\PRG 282 project\obj\Debug\net6.0-windows\ref\PRG 282 project.dll
